@@ -75,7 +75,6 @@
   </p>
 
   <br /><br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sourcerful&show_icons=true&theme=onedark&layout=compact)](https://github.com/sourcerful?tab=repositories)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcerful&hide_progress=false&theme=onedark)](https://sourcerful.github.io/github-profile-languages)
 
 </div>
